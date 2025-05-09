@@ -16,7 +16,13 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+.gitignore
+build.gradle
+gradlew
+gradlew.bat
+HELP.md
+settings.gradle
+.gitattributes
 ### IntelliJ IDEA ###
 .idea
 *.iws
